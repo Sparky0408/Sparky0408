@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_sparky_0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sparky_0408" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruturaj shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruturaj shinde" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ruturaj_shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ruturaj_shinde" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ruturaj-shinde-2861b2138/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruturaj shinde" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ruturaj_shinde?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ruturaj_shinde" height="30" width="40" /></a>
 <a href="https://discord.gg/PqDTrtXV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PqDTrtXV" height="30" width="40" /></a>
 </p>
 
