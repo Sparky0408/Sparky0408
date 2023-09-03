@@ -1,8 +1,8 @@
-
-
 <h1 align="center">Hi 👋, I'm Ruturaj Shinde</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparky0408" alt="sparky0408" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Framework**
 
@@ -23,3 +23,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ruturajrs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ruturajrs" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparky0408&show_icons=true&locale=en&layout=compact" alt="sparky0408" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparky0408&show_icons=true&locale=en" alt="sparky0408" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparky0408&" alt="sparky0408" /></p>
