@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Sparky0408/Sparky0408/assets/94705687/bd9d4e89-c937-41cb-afd4-8dbaa2d4eeb1)]
+![MasterHead](https://github.com/Sparky0408/Sparky0408/assets/94705687/bd9d4e89-c937-41cb-afd4-8dbaa2d4eeb1)
 
 <h1 align="center">Hi 👋, I'm Ruturaj Shinde</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
