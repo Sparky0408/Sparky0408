@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Android and Web Development**
 
 - 📫 How to reach me **ruturajrs20@gmail.com**
 
